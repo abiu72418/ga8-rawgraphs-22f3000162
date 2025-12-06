@@ -1,21 +1,21 @@
 source,target,value
-Search Engine,Awareness,200
-Direct,Purchase,440
-Search Engine,Purchase,407
-Social Media,Purchase,490
-Search Engine,Purchase,141
-Search Engine,Awareness,434
-Search Engine,Purchase,225
-Referral,Purchase,524
-Email,Interest,393
-Referral,Interest,85
-Email,Awareness,320
-Search Engine,Interest,94
-Referral,Awareness,94
-Social Media,Purchase,397
-Referral,Consideration,166
-Search Engine,Awareness,166
-Direct,Consideration,338
-Email,Awareness,269
-Search Engine,Awareness,274
-Search Engine,Consideration,435
+Social Media,Interest,401
+Referral,Purchase,175
+Direct,Consideration,52
+Referral,Purchase,179
+Referral,Awareness,225
+Social Media,Purchase,226
+Referral,Interest,479
+Referral,Purchase,279
+Search Engine,Consideration,516
+Email,Awareness,278
+Search Engine,Consideration,215
+Search Engine,Awareness,525
+Social Media,Awareness,118
+Referral,Consideration,491
+Direct,Awareness,186
+Social Media,Awareness,404
+Email,Consideration,344
+Social Media,Interest,227
+Search Engine,Interest,223
+Direct,Purchase,230
