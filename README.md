@@ -2,11 +2,11 @@
 
 Submitted by: 22f3000162@ds.study.iitm.ac.in
 
-Chart Type: Treemap
+Chart Type: Sunburst Diagram
 
 ## Description
-market share distribution
+organizational spending breakdown
 
 ## Files
 - sample_data.csv - Source data
-- chart.png - Generated Treemap
+- chart.png - Generated Sunburst Diagram
