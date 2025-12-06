@@ -2,11 +2,11 @@
 
 Submitted by: 22f3000162@ds.study.iitm.ac.in
 
-Chart Type: Alluvial Diagram
+Chart Type: Treemap
 
 ## Description
-customer journey flow
+market share distribution
 
 ## Files
 - sample_data.csv - Source data
-- chart.png - Generated Alluvial Diagram
+- chart.png - Generated Treemap
