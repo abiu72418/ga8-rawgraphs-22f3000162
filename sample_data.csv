@@ -1,21 +1,16 @@
-source,target,value
-Social Media,Interest,401
-Referral,Purchase,175
-Direct,Consideration,52
-Referral,Purchase,179
-Referral,Awareness,225
-Social Media,Purchase,226
-Referral,Interest,479
-Referral,Purchase,279
-Search Engine,Consideration,516
-Email,Awareness,278
-Search Engine,Consideration,215
-Search Engine,Awareness,525
-Social Media,Awareness,118
-Referral,Consideration,491
-Direct,Awareness,186
-Social Media,Awareness,404
-Email,Consideration,344
-Social Media,Interest,227
-Search Engine,Interest,223
-Direct,Purchase,230
+category,subcategory,value
+Clothing,Children's,1036613
+Sports,Equipment,881612
+Home & Garden,Furniture,930144
+Sports,Equipment,928554
+Electronics,Laptops,179262
+Sports,Apparel,955557
+Clothing,Children's,981309
+Sports,Apparel,484199
+Home & Garden,Decor,510438
+Electronics,Laptops,321670
+Home & Garden,Furniture,366655
+Electronics,Tablets,226108
+Electronics,Smartphones,944757
+Home & Garden,Decor,814626
+Electronics,Smartphones,249018
