@@ -4,4 +4,9 @@ Submitted by: 22f3000162@ds.study.iitm.ac.in
 
 Chart Type: Sunburst Diagram
 
-Note: Please create your chart manually at https://rawgraphs.io/
+## Description
+organizational spending breakdown
+
+## Files
+- sample_data.csv - Source data
+- chart.png - Generated Sunburst Diagram
